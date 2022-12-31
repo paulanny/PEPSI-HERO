@@ -1,3 +1,63 @@
+// function changeImage() {
+        //     var image = document.getElementById('headimage');
+        //     if (image.src.match("colorbottel")) {
+        //         image.src = "./images/PEPSI BLACK (2).png";
+        //     }
+        //     else if {
+        //         image.src = "./images/PEPSI BLUE (2).png";
+        //         document. body. style. backgroundColor = '#2E85EE'
+        //     }
+
+        //     // var image = this;
+        //     // if (this.image.src.match("./images/PEPSI BLUE (2).png")){
+        //     //     image.src = "./images/PEPSI ASH (2).png";
+        //     //     document. body. style. backgroundColor = 'red'
+        //     // }
+        //     // else {return};
+            
+        // }
+
+        
+        // function changeImage2() {
+        //     let image = document.getElementById('headimage');
+        //     if (image.src.match("./images/PEPSI BLUE (2).png")) {
+        //         image.src = "./images/PEPSI BLACK (2).png";
+        //     }
+        //     else {
+        //         image.src = "./images/PEPSI ASH (2).png";
+        //         document. body. style. backgroundColor = 'red'
+        //     }
+        // }
+    
+        
+
+        //  const clickImage2 = document.getElementById('pepp2');
+        // clickImage.addEventListener('click', changeFunction);
+
+
+//         function changeFunction(e)
+// {
+//     if( document.getElementById("headimage").src == "./images/PEPSI BLACK (2).png" ){
+//         document.getElementById("headimage").src = "./images/PEPSI ASH (2).png";
+//     }
+//     else if( document.getElementById("headimage").src == "./images/PEPSI ASH (2).png" ){
+//         document.getElementById("headimage").src = "./images/PEPSI BLUE (2).png";
+//     } else { document.getElementById("headimage").src = "./images/PEPSI BLACK (2).png";
+    
+//     }
+// }
+        
+// const clickImage = document.getElementById('pepp1');
+//         clickImage.addEventListener('click', changeFunction);
+
+//         red
+
+
+
+
+
+
+
 function changeEvent1() {
     document.getElementById("headimage").src="./images/PEPSI BLUE (2).png";
     document. body. style. backgroundColor = ' #0062be '
