@@ -1,53 +1,76 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g>
-	<g>
-		<path d="M352,0H160C71.648,0,0,71.648,0,160v192c0,88.352,71.648,160,160,160h192c88.352,0,160-71.648,160-160V160
-			C512,71.648,440.352,0,352,0z M464,352c0,61.76-50.24,112-112,112H160c-61.76,0-112-50.24-112-112V160C48,98.24,98.24,48,160,48
-			h192c61.76,0,112,50.24,112,112V352z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M256,128c-70.688,0-128,57.312-128,128s57.312,128,128,128s128-57.312,128-128S326.688,128,256,128z M256,336
-			c-44.096,0-80-35.904-80-80c0-44.128,35.904-80,80-80s80,35.872,80,80C336,300.096,300.096,336,256,336z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<circle cx="393.6" cy="118.4" r="17.056"/>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.26667in" height="8.26667in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1742.42 1742.42"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M-0 0l1742.42 0 0 1742.42 -1742.42 0 0 -1742.42z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_2099041226016">
+     <g>
+      <g>
+       <path class="fil0" d="M1054.3 382.97l-366.18 0c-168.5,0 -305.15,136.65 -305.15,305.15l0 366.18c0,168.5 136.65,305.15 305.15,305.15l366.18 0c168.5,0 305.15,-136.65 305.15,-305.15l0 -366.18c0,-168.5 -136.65,-305.15 -305.15,-305.15zm213.61 671.33c0,117.79 -95.82,213.61 -213.61,213.61l-366.18 0c-117.79,0 -213.61,-95.82 -213.61,-213.61l0 -366.18c0,-117.79 95.82,-213.61 213.61,-213.61l366.18 0c117.79,0 213.61,95.82 213.61,213.61l0 366.18z"/>
+      </g>
+     </g>
+     <g>
+      <g>
+       <path class="fil0" d="M871.21 627.09c-134.82,0 -244.12,109.31 -244.12,244.12 0,134.82 109.31,244.12 244.12,244.12 134.82,0 244.12,-109.31 244.12,-244.12 0,-134.82 -109.31,-244.12 -244.12,-244.12zm0 396.7c-84.1,0 -152.58,-68.48 -152.58,-152.58 0,-84.16 68.48,-152.58 152.58,-152.58 84.1,0 152.58,68.41 152.58,152.58 0,84.1 -68.48,152.58 -152.58,152.58z"/>
+      </g>
+     </g>
+     <g>
+      <g>
+       <circle class="fil0" cx="1133.64" cy="608.78" r="32.53"/>
+      </g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+     <g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <polygon class="fil1" points="-0,0 1742.42,0 1742.42,1742.42 -0,1742.42 "/>
+ </g>
 </svg>
