@@ -44,7 +44,7 @@ li      {
     margin: auto;
     align-items: center;
     justify-content: space-between;
-    padding: 50px;
+    padding: 0px 50px;
 }
 
 
@@ -96,13 +96,17 @@ li      {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 50px;
+    /* margin-left: 50px; */
+}
+
+.pepsiimagee    {
+    transition:  all 0.1s ease-in-out; 
 }
 
 .pepsiimagee img    {
-    margin-right: 30px;
-    max-width: 250px;
-    transition:  all 0.2s ease-in; 
+    /* margin-right: 30px; */
+    /* max-width: 250px; */
+    transition:  all 0.1s ease-in-out; 
 }
 
 .twit       {
@@ -110,6 +114,7 @@ li      {
     height: auto;
     margin-top: 20px;
     filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
+    cursor: pointer;
    
 }
 
@@ -127,6 +132,7 @@ li      {
 .twitt       {
     width: 7px;
     height: auto;
+    cursor: pointer;
    
 }
 
@@ -150,22 +156,24 @@ li      {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
+    margin: -60px auto 10px auto;
 }
 
 .pepp   {
     width: 30px;
     height: auto;
-    transition: all 1s ease-in;
+    transition: 1s ease-in;
 }
 .pepp1   {
     width: 28px;
     height: auto;
-    transition: 1s step-start;
+    transition: 1s ease-in;
 }
 
-.pepp2   {
+/* .pepp2   {
     width: 40px;
     height: auto;
     margin: 0px 25px;
     transition: 1s ease-out;
-}
+} */
