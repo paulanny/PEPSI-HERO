@@ -269,8 +269,33 @@ li {
   .texts {
     display: flex;
     width: 100%;
+    flex-direction: column;
     color: white;
-  }
+    align-items: center;
+}
+
+.thirdp {
+    font-size: 16px;
+    line-height: 30px;
+    width: 70%;
+    text-align: center;
+}
+
+.pep {
+    width: 90px;
+    height: auto;
+}
+
+.producta {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 25px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 50px;
+}
 
   .pees {
     display: flex;
@@ -282,14 +307,28 @@ li {
     display: block;
   }
 
-  .pep {
+  .secp {
+    font-size: 120px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.textfirstp {
+    font-size: 80px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+  .pepo {
     width: 30px;
     height: auto;
     transition: 1s ease-in;
     cursor: pointer;
   }
 
-  .pep:hover {
+  .pepo:hover {
     transform: translateX(-12px);
   }
 
@@ -297,4 +336,40 @@ li {
     display: none;
   }
   
+}
+
+
+@media (max-width: 650px)  {
+
+    .thirdp {
+        font-size: 16px;
+        line-height: 30px;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 600px){
+
+    .secp {
+        font-size: 100px;
+        font-weight: 800;
+        color: white;
+        text-align: center;
+    }
+    
+    .textfirstp {
+        font-size: 50px;
+        font-weight: 800;
+        color: white;
+        text-align: center;
+    }
+
+    .thirdp {
+        font-size: 14px;
+        line-height: 30px;
+        width: 100%;
+        text-align: center;
+    }
 }
