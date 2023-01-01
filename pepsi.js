@@ -80,8 +80,32 @@ const blueCan = document.getElementById("pepp1");
 const ashCan = document.getElementById("pepp2");
 const blackCan = document.getElementById("pepp");
 
+const blueCan2 = document.getElementById("pep1");
+const ashCan2 = document.getElementById("pep2");
+const blackCan2 = document.getElementById("pep3");
+
+
 
 blueCan.addEventListener('click', changeEvent1);
 ashCan.addEventListener('click', changeEvent2);
 blackCan.addEventListener('click', changeEvent3);
+
+blueCan2.addEventListener('click', changeEvent1);
+ashCan2.addEventListener('click', changeEvent2);
+blackCan2.addEventListener('click', changeEvent3);
+
+
+
+const openDropdownButton = document.querySelector(".menu-btn.open"),
+  closeDropdownButton = document.querySelector(".menu-btn.close");
+
+openDropdownButton.addEventListener("click", () => {
+  const dropdown = document.querySelector(".dropdown");
+  dropdown.style.right = "0";
+});
+
+closeDropdownButton.addEventListener("click", () => {
+  const dropdown = document.querySelector(".dropdown");
+  dropdown.style.right = "-400px";
+});
 

@@ -1,174 +1,184 @@
-*       {
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
 }
 
-body    {
-    font-family: 'Montserrat', sans-serif;
-    background-color: #1e1e1e ;
-    transition: all 2s ease;
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #1e1e1e;
+  transition: all 2s ease;
 }
 
-.pep    {
-    width: 70px;
-    height: auto;
+.pep {
+  width: 70px;
+  height: auto;
 }
 
-ul      {
-    list-style-type: none;
-    display: flex;
-    gap: 35px;
-    float: right;
-    padding-right: 40px;
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 35px;
+  float: right;
+  padding-right: 40px;
 }
 
-li      {
-    display: block;
-    
+li {
+  display: block;
 }
 
-.navitems a    {
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    color: white;
-    
+.navitems {
+  display: flex;
 }
 
-.picstexts      {
-    display: flex;
-    flex-direction: row;
-    margin: auto;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0px 50px;
+.navitems a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: white;
 }
 
-
-  
-.navigationbar  {
-    align-items: center;
-    justify-content: space-between;
-    margin: auto;
-    display: flex;
-    padding: 15px 50px;
-
+.picstexts {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 50px;
 }
 
-.textfirstp     {
-    font-size: 50px;
-    font-weight: 800;
-    color: white;
+.navigationbar {
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  display: flex;
+  padding: 15px 50px;
 }
 
-.secp     {
-    font-size: 90px;
-    font-weight: 800;
-    color: white;
+.pepsiimage2 {
+  display: none;
 }
 
-.thirdp     {
-    font-size: 14px;
-    line-height: 25px;
+.textfirstp {
+  font-size: 50px;
+  font-weight: 800;
+  color: white;
 }
 
-
-.texts  {
-    display: block;
-    width: 45%;
-    color: white;
+.secp {
+  font-size: 90px;
+  font-weight: 800;
+  color: white;
 }
 
-.pepsocimg  {
-    display: flex;
-    flex-direction: row;
-    /* margin: auto; */
-    align-items: center;
-    justify-content: space-evenly;
-    width: 50%;
-    padding: 30px;
+.thirdp {
+  font-size: 14px;
+  line-height: 25px;
 }
 
-.socials    {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    /* margin-left: 50px; */
+.texts {
+  display: block;
+  width: 45%;
+  color: white;
 }
 
-.pepsiimagee    {
-    transition:  all 0.1s ease-in-out; 
+.pepsocimg {
+  display: flex;
+  flex-direction: row;
+  /* margin: auto; */
+  align-items: center;
+  justify-content: space-evenly;
+  width: 50%;
+  padding: 30px;
 }
 
-.pepsiimagee img    {
-    /* margin-right: 30px; */
-    /* max-width: 250px; */
-    transition:  all 0.1s ease-in-out; 
+.socials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-left: 50px; */
 }
 
-.twit       {
-    width: 15px;
-    height: auto;
-    margin-top: 20px;
-    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
-    cursor: pointer;
-   
+.pepsiimagee {
+  transition: all 0.1s ease-in-out;
 }
 
-.pepp1:hover    {
-    transform: translateY(-12px);
+.pepsiimagee img {
+  /* margin-right: 30px; */
+  /* max-width: 250px; */
+  transition: all 0.1s ease-in-out;
 }
 
-.pepp:hover    {
-    transform: translateY(-12px);
+.twit {
+  width: 15px;
+  height: auto;
+  margin-top: 20px;
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg)
+    brightness(102%) contrast(102%);
+  cursor: pointer;
 }
 
-.pepp2:hover    {
-    transform: translateY(-12px);
-}
-.twitt       {
-    width: 7px;
-    height: auto;
-    cursor: pointer;
-   
+.pepp1:hover {
+  transform: translateY(-12px);
 }
 
-.producta   {
-    background-color: white;
-    color: black;
-    font-size: 16px;
-    font-weight: 500;
-    padding: 12px;
-    text-decoration: none;
-    border: 1px solid white;
-    border-radius: 50px;
+.pepp:hover {
+  transform: translateY(-12px);
 }
 
-.apro   {
-    margin-top: 40px;
+.pepp2:hover {
+  transform: translateY(-12px);
+}
+.twitt {
+  width: 7px;
+  height: auto;
+  cursor: pointer;
 }
 
-.pepsiimage     {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    margin: -60px auto 10px auto;
+.producta {
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 50px;
 }
 
-.pepp   {
-    width: 30px;
-    height: auto;
-    transition: 1s ease-in;
+.apro {
+  margin-top: 40px;
 }
-.pepp1   {
-    width: 28px;
-    height: auto;
-    transition: 1s ease-in;
+
+.pepsiimage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: -60px auto 10px auto;
+}
+
+.pepp {
+  width: 30px;
+  height: auto;
+  transition: 1s ease-in;
+  cursor: pointer;
+}
+.pepp1 {
+  width: 28px;
+  height: auto;
+  cursor: pointer;
+  transition: 1s ease-in;
+}
+
+.open {
+  display: none;
+}
+
+.dropdown {
+  display: none;
 }
 
 /* .pepp2   {
@@ -177,3 +187,114 @@ li      {
     margin: 0px 25px;
     transition: 1s ease-out;
 } */
+
+@media (max-width: 1000px) {
+  .dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: fixed;
+    width: 100%;
+    max-width: 400px;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 100%;
+    z-index: 183838;
+    box-shadow: 0 10px 15px -3px #0000001a, 0 4px 6px -4px #0000001a;
+    padding: 96px 40px;
+    right: -400px;
+    transition: 1s;
+  }
+
+  .close {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+  }
+
+  .close img {
+    height: 32px;
+    width: 32px;
+  }
+
+  .dropdown a {
+    color: #030303;
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 14px 0;
+    padding: 12px;
+    width: 100%;
+    text-align: left;
+    text-decoration: none;
+  }
+
+  .dropdown a:hover {
+    background-color: #0c0c0c;
+    color: white;
+  }
+
+  .navitems .menu-btn {
+    display: block;
+    background-color: transparent;
+    border: none;
+  }
+
+  .menu-btn {
+    background-color: transparent;
+    border: none;
+  }
+
+  .menu-btn img {
+    height: 40px;
+    width: 40px;
+  }
+
+  .navitems ul {
+    display: none;
+  }
+
+  .picstexts {
+    display: flex;
+    flex-direction: column;
+    margin: 100px auto 20px auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 50px;
+  }
+
+  .texts {
+    display: flex;
+    width: 100%;
+    color: white;
+  }
+
+  .pees {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+  }
+
+  .pepsiimage2 {
+    display: block;
+  }
+
+  .pep {
+    width: 30px;
+    height: auto;
+    transition: 1s ease-in;
+    cursor: pointer;
+  }
+
+  .pep:hover {
+    transform: translateX(-12px);
+  }
+
+  .pepsiimage {
+    display: none;
+  }
+  
+}
