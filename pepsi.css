@@ -141,7 +141,7 @@ li {
 .producta {
   background-color: white;
   color: black;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   padding: 12px;
   text-decoration: none;
@@ -437,6 +437,19 @@ li {
     cursor: pointer;
     margin-right: 10px;
   }
+
+  .navigationbar {
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+    padding: 15px 8px;
+}
+
+.pep {
+  width: 60px;
+  height: auto;
+}
   
 }
 
